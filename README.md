@@ -5,8 +5,8 @@ Első próba a githubon.
 
 * Fotogrammetria ll.
 * Térinformatikai Alkalmazások
-* Alkalmazott Matematika
-* Vizes élőhelyek
+* Alkalmazott Matematika ez csak vizsga?
+* Vizes élőhelyek ez nincs is?
 * Mérnök Geodézia
 * Felső Geodézia
 
